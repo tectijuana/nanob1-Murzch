@@ -1,28 +1,26 @@
-![](http://www.bettshow.com/library_5/1738756_assocImage_2.png?rndUUID=935D8560-F6D9-649D-B65F22B5D35C8F97)
+# Murzim.
+Muñoz Rodríguez Miguel Eduardo.
+***Conceptos básicos.***
+![enter image description here](https://ect.co.in/wp-content/uploads/2017/02/careers-in-computer-programming.jpg)
 
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/4970280.png" width="477" height="65" alt="Murzim" /></a>
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+**Introducción.**
+La lógica de programación es la forma en que desarrollamos nuestro pensamiento a la hora de programar para conseguir una estructura lógica y funcional de nuestro código. No solo nos sirve para programar el pensar de manera lógica, pero en este caso específico va enfocada a eso.
 
-Plantilla generica de todo repositorio.
+**De los problemas a los programas.**
+Habla sobre como a partir de un enunciado o de una situación en específico, debemos idear una manera ingeniosa de solucionarlo a través de una lógica algorítmica que pueda ser funcional a la hora de programar.
 
-1. Tutor básico de Git en 15 minutos http://try.github.com por CodeSchool
-2. Git Guru https://www.atlassian.com/git/tutorials por GitBucket
-3. Git comandos como glosario https://www.atlassian.com/git/glossary
-4. DZone resumen tutorial mas popular https://dzone.com/refcardz/getting-started-git
-5. Nuestro glosario español https://github.com/tectijuana/PlantillaInicio/blob/master/glosario.md
+![enter image description here](https://i.blogs.es/389033/programming/450_1000.jpg)
 
-----
+**Definición de lenguaje.**
+El lenguaje de programación es el que permite que la computadora logre comprender al humano a través de ciertas estructuras lógicas que los programadores escriben. Así damos instrucciones al programa para que sepa que realizar una vez que lo hemos depurado en base al algoritmo que le proporcionamos.
 
-Git for Windows hay tres versiones pero la mas recomendable es https://git-scm.com/download/win Git For Windows 2
+**Definición de algoritmo.**
+Un algoritmo es una serie de pasos que nos ayuda a alcanzar un objetivo.
 
-----
+**Algoritmos cotidianos.**
+Los algoritmos cotidianos son precisamente lo mismo que se describió en el punto anterior, pero aplicado a situaciones sencillas, como abrir la puerta, donde los pasos serían colocar la mano en la perilla, girar, tirar en la dirección de apertura, y finalmente la puerta quedaría abierta, por explicar con un punto bastante sencillo.
 
-![](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/basics-linux-commands_orig.jpg)
+**Definición de lenguajes algorítmicos.**
+Los lenguajes algorítmicos son precisamente los que nos permiten elaborar algoritmos a partir de la forma en que escribimos las cosas con instrucciones lógicas. Son la base de la programación.
 
-Aprender Linux básico 
-https://likegeeks.com/main-linux-commands-easy-guide/
-
-Tips de Linux para ser productivos
-https://dzone.com/articles/most-useful-linux-command-line-tricks?edition=306244&utm_source=weekly%20digest&utm_medium=email&utm_campaign=wd%202017-07-12
-
-
+![](https://imagenes.universia.net/gc/net/images/ciencia-tecnologia/l/le/len/lenguajes-de-programacion.jpg) 
